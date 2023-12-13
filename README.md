@@ -54,3 +54,27 @@ cd CustomerRestapiBackend
 mvn spring-boot:run
 Backend will run on port number 8080 as i specified it in the code 
 Frontend (React)
+![Screenshot (179)](https://github.com/chinmay0703/SunbaseData/assets/121102640/f5a895b6-fa19-414c-8e0e-017549ff5381)
+
+![Screenshot (180)](https://github.com/chinmay0703/SunbaseData/assets/121102640/b1945638-31c7-45a8-8f7d-9a6736e35849)
+
+![Screenshot (181)](https://github.com/chinmay0703/SunbaseData/assets/121102640/ca598f75-e7a8-475f-8a6a-04da079e0ce3)
+
+![Screenshot (182)](https://github.com/chinmay0703/SunbaseData/assets/121102640/d98ae6e8-2154-4078-b0af-2c40225ee524)
+
+![Screenshot (183)](https://github.com/chinmay0703/SunbaseData/assets/121102640/9be9b994-5ee1-4dde-957d-1bc3f0991268)
+
+![Screenshot (184)](https://github.com/chinmay0703/SunbaseData/assets/121102640/11e9c0b9-ec85-4fb6-bf44-fdaf204d9bcb)
+
+![Screenshot (185)](https://github.com/chinmay0703/SunbaseData/assets/121102640/0e1aa47b-e83c-4643-a2fd-5f55fbfaffb6)
+
+
+![Screenshot (186)](https://github.com/chinmay0703/SunbaseData/assets/121102640/41136c47-0cf6-440f-8391-b96a1ef8cdf1)
+
+
+![Screenshot (187)](https://github.com/chinmay0703/SunbaseData/assets/121102640/65dbbc1a-acb8-4fc8-ae83-d989970c9c83)
+
+
+
+
+
