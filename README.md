@@ -45,13 +45,9 @@ Copy code
 cd .\customer\
 npm start 
 This will start the development server, and you can access the application by visiting http://localhost:3000 in your web browser.
-Running the Application
+Running the Application Make sure you have Java and Maven installed. 
 
-# Backend (Spring Boot)
-
-Make sure you have Java and Maven installed. 
-
-# Navigate to the backend directory and run the following commands:
+# Backend (Spring Boot)  Navigate to the backend directory and run the following commands:
 bash
 Copy code
 cd CustomerRestapiBackend
