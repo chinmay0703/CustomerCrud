@@ -37,8 +37,9 @@ Copy code
 |-- public
 |-- package.json
 |-- README.md
-Before running the React app, make sure to install the required dependencies. You can do this by navigating to the frontend directory using the following commands:
+Before running the React app, make sure to install the required dependencies. 
 
+# You can do this by navigating to the frontend directory using the following commands:
 bash
 Copy code
 cd .\customer\
@@ -48,7 +49,9 @@ Running the Application
 
 # Backend (Spring Boot)
 
-Make sure you have Java and Maven installed. Navigate to the backend directory and run the following commands:
+Make sure you have Java and Maven installed. 
+
+# Navigate to the backend directory and run the following commands:
 bash
 Copy code
 cd CustomerRestapiBackend
