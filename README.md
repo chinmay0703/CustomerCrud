@@ -41,7 +41,6 @@ Before running the React app, make sure to install the required dependencies.
 
 # You can do this by navigating to the frontend directory using the following commands:
 bash
-Copy code
 cd .\customer\
 npm start 
 This will start the development server, and you can access the application by visiting http://localhost:3000 in your web browser.
@@ -49,7 +48,6 @@ Running the Application Make sure you have Java and Maven installed.
 
 # Backend (Spring Boot)  Navigate to the backend directory and run the following commands:
 bash
-Copy code
 cd CustomerRestapiBackend
 mvn spring-boot:run
 Backend will run on port number 8080 as i specified it in the code 
