@@ -28,10 +28,8 @@ Copy code
 # Frontend (React)
 
 The frontend is responsible for providing a user interface to interact with the customer data and authentication features. The frontend folder structure may look like the following:
-
-lua
 Copy code
-/sunbasedata-frontend
+/CustomerRestApiFrontend
 |-- src
 |   |-- components
 |   |-- App.js
