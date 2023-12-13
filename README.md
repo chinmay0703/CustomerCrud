@@ -75,6 +75,10 @@ Frontend (React)
 ![Screenshot (187)](https://github.com/chinmay0703/SunbaseData/assets/121102640/65dbbc1a-acb8-4fc8-ae83-d989970c9c83)
 
 
+![Screenshot (188)](https://github.com/chinmay0703/SunbaseData/assets/121102640/6f4710ba-0e6b-4876-b746-913ddaba13b5)
+
+
+
 
 
 
