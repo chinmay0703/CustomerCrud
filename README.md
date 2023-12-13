@@ -1,7 +1,7 @@
 
-SunbaseData Project README
+#SunbaseData Project README
 
-#Introduction
+Introduction
 This project is developed using Spring Boot for the backend and React for the frontend. The aim of this project is to provide a platform for managing customer information with functionalities such as viewing, updating, deleting, adding customers, and user authentication (login and signup).
 
 Project Structure
